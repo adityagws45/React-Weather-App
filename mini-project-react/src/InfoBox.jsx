@@ -108,7 +108,7 @@ import Typography from "@mui/material/Typography";
 import ThunderstormIcon from "@mui/icons-material/Thunderstorm";
 import AcUnitIcon from "@mui/icons-material/AcUnit";
 import SunnyIcon from "@mui/icons-material/WbSunny"; // ✅ Corrected icon name
-import "./Infobox.css";
+import "./InfoBox.css";
 
 export default function InfoBox({ info }) {
   const COLD_URL =
